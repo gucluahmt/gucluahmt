@@ -1,7 +1,7 @@
 # Ahmet Guclu
 
 **Senior Business Analyst | Python | SQL | Data Validation | Financial Systems**
-
+As a Senior Business Analyst in the financial services sector, I specialize in building scalable analytics and data validation systems. I bridge the gap between business requirements and technical implementation with deep expertise in trade lifecycle, data quality, and regulatory compliance.
 Welcome to my GitHub portfolio!  
 I design and implement scalable data validation and trade analytics pipelines using Python, SQL, and automation tools across regulated financial systems.
 
