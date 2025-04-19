@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio — a showcase of real-world pipelines built usin
 - **Charles Schwab Thinkorswim - Trade Analytics**  
   Execution analysis pipeline with anomaly detection and reporting
 
-
+Each project reflects hands-on experience with real-life scenarios in institutional finance — ranging from anomaly detection in execution logs to trade order classification pipelines.
 <!--
 **gucluahmt/gucluahmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
