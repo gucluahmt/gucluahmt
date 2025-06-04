@@ -40,8 +40,8 @@ I embrace a growth mindset, continuously expanding my capabilities across techni
 ---
 
 ### 🔧 Technical Skills
-- SQL (Oracle), Python (pandas, numpy), Excel (advanced analytics), Power BI
-- Linux (Ubuntu operations), Git, GitHub
+- SQL, Python (pandas, numpy), Excel (advanced analytics), Power BI
+- Linux, Git, GitHub
 - Business Analysis Tools: BRD, FRD, Use Case Diagrams, HP ALM, JIRA, Confluence
 
 ---
