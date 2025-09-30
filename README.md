@@ -9,9 +9,10 @@ These self-initiated projects demonstrate my growth mindset and ability to indep
 
 ---
 
-## 📈 Featured Projects
-- **Trade Surveillance Project**
-  Surveilance pipeline for fixed-income trades with 10 compliance rules 
+## 📌 Featured Projects
+
+- **Trade Surveillance Project**  
+  Surveillance pipeline for fixed-income trades with 10 compliance rules
 
 - **BNP Paribas – Big Data Order Validator**  
   End-to-end trade classification and validation pipeline using Python (1M+ records).
@@ -20,14 +21,13 @@ These self-initiated projects demonstrate my growth mindset and ability to indep
   Modular framework for validating trade data during legacy-to-modern system migration.
 
 - **Customer Churn Prediction – Retention Strategy Optimization**  
-  Predictive analytics project to identify at-risk clients using machine learning models and recommend retention strategies based on customer behavior analysis.
+  Predictive analytics project to identify at-risk clients using machine learning models.
 
 - **Portfolio Risk Scoring – Client Profiling for Financial Advisory**  
-  Data-driven risk assessment and diversification scoring pipeline to support Financial Advisory Business Technology (FABT) practices, ensuring tailored investment recommendations based on client profiles.
-  
+  Data-driven risk assessment and diversification scoring pipeline for tailored recommendations.
+
 - **Charles Schwab Thinkorswim – Trade Analytics**  
   Execution analysis pipeline with anomaly detection and reporting for trading activities.
-
 
 
 ---
