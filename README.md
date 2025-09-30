@@ -10,6 +10,8 @@ These self-initiated projects demonstrate my growth mindset and ability to indep
 ---
 
 ## 📈 Featured Projects
+- **Trade Surveillance Project**
+  Surveilance pipeline for fixed-income trades with 10 compliance rules 
 
 - **BNP Paribas – Big Data Order Validator**  
   End-to-end trade classification and validation pipeline using Python (1M+ records).
