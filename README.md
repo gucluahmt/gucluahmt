@@ -17,9 +17,6 @@ These self-initiated projects demonstrate my growth mindset and ability to indep
 - **BNP Paribas – Big Data Order Validator**  
   End-to-end trade classification and validation pipeline using Python (1M+ records).
 
-- **MarketAxess – Trade Data Validator**  
-  Modular framework for validating trade data during legacy-to-modern system migration.
-
 - **Customer Churn Prediction – Retention Strategy Optimization**  
   Predictive analytics project to identify at-risk clients using machine learning models.
 
