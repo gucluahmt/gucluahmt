@@ -9,6 +9,7 @@ These self-initiated projects demonstrate my growth mindset and ability to indep
 
 ---
 
+
 **• Trade Surveillance Project**  
 Surveillance pipeline for fixed-income trades with 10 compliance rules.  
 
@@ -26,7 +27,6 @@ Data-driven risk assessment and diversification scoring pipeline for tailored re
 
 **• Charles Schwab Thinkorswim – Trade Analytics**  
 Execution analysis pipeline with anomaly detection and reporting for trading activities.  
----
 
 
 
