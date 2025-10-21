@@ -8,29 +8,35 @@ In addition to delivering business analysis solutions in trading and compliance 
 These self-initiated projects demonstrate my growth mindset and ability to independently design, develop, and deliver end-to-end data-driven solutions aligned with real-world business needs.
 
 ---
+## 📌 Featured Projects  
 
-## 📌 Featured Projects
+### 🧩 Trade Surveillance Project  
+Surveillance pipeline for fixed-income trades with **10 compliance validation rules**.  
+Focus: data integrity, exception handling, and feed file alignment across OMS and downstream systems.  
 
-- **Trade Surveillance Project**  
-  Surveillance pipeline for fixed-income trades with 10 compliance rules
+### 🔍 Trade Data ETL Process with Validation Rules  
+End-to-end **Python ETL pipeline** for extracting, transforming, enriching, and validating raw trade data.  
+Goal: ensure **data quality, consistency, and completeness** before loading into analytics or compliance platforms.  
 
-- **Trade Data ETL Process**
-  Trade Data ETL with Validation Rules  
+### 🧠 BNP Paribas – Big Data Order Validator  
+Enterprise-scale ETL validation pipeline for trade classification and data accuracy.  
+Handles 1M+ records with Airflow orchestration, schema mapping, and exception logging.  
 
-- **BNP Paribas – Big Data Order Validator**  
-  End-to-end trade classification and validation pipeline using Python (1M+ records).
+### 💡 Customer Churn Prediction – Retention Strategy Optimization  
+Predictive analytics project to identify at-risk clients using machine learning (classification and feature engineering).  
+Focus: data preprocessing, model evaluation, and retention strategy reporting.  
 
-- **Customer Churn Prediction – Retention Strategy Optimization**  
-  Predictive analytics project to identify at-risk clients using machine learning models.
+### 💰 Portfolio Risk Scoring – Client Profiling for Financial Advisory  
+Data-driven risk assessment and diversification scoring pipeline for portfolio optimization.  
+Focus: quantitative scoring models and advisory recommendations.  
 
-- **Portfolio Risk Scoring – Client Profiling for Financial Advisory**  
-  Data-driven risk assessment and diversification scoring pipeline for tailored recommendations.
-
-- **Charles Schwab Thinkorswim – Trade Analytics**  
-  Execution analysis pipeline with anomaly detection and reporting for trading activities.
-
+### 📊 Charles Schwab Thinkorswim – Trade Analytics  
+Execution analysis pipeline with anomaly detection and performance metrics for trading activity.  
+Focus: user behavior insights and trade flow validation.  
 
 ---
+
+
 
 ## 🧠 Approach and Mindset
 
