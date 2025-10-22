@@ -1,53 +1,37 @@
-#  Ahmet Guclu
+# Ahmet Guclu
 
-Senior Business Analyst | Python | SQL | Data Validation | Financial Systems | Data-Driven Strategy
+**Senior Business Analyst | Python | SQL | Data Validation | Financial Systems | Capital Markets**
 
-As a Senior Business Analyst in the financial services industry, I combine deep expertise in capital markets, regulatory reporting, and data validation with a passion for continuous growth and cross-functional learning.
+As a Senior Business Analyst in financial technology, I bridge the gap between business needs and data integrity — designing scalable solutions that ensure accurate, compliant, and actionable trade data across capital markets.  
+With a foundation in Python, SQL, and data validation frameworks, I deliver clean data pipelines and transparent reporting environments that empower regulatory, risk, and compliance teams.
 
-In addition to delivering business analysis solutions in trading and compliance environments, I proactively explored adjacent domains such as Customer Retention Analysis and Portfolio Risk Scoring.  
-These self-initiated projects demonstrate my growth mindset and ability to independently design, develop, and deliver end-to-end data-driven solutions aligned with real-world business needs.
-
----
-
-
-**• Trade Surveillance Project**  
-Surveillance pipeline for fixed-income trades with 10 compliance rules.  
-
-**• Trade Data ETL Process — Trade Data ETL with Validation Rules**  
-End-to-end Python ETL pipeline to extract, transform, enrich, and validate raw trade data for data integrity and consistency.  
-
-**• BNP Paribas – Big Data Order Validator**  
-End-to-end trade classification and validation pipeline using Python (1M+ records).  
-
-**• Customer Churn Prediction – Retention Strategy Optimization**  
-Predictive analytics project to identify at-risk clients using machine learning models.  
-
-**• Portfolio Risk Scoring – Client Profiling for Financial Advisory**  
-Data-driven risk assessment and diversification scoring pipeline for tailored recommendations.  
-
-**• Charles Schwab Thinkorswim – Trade Analytics**  
-Execution analysis pipeline with anomaly detection and reporting for trading activities.  
-
-
-
-## 🧠 Approach and Mindset
-
-Each project in my portfolio is the result of independently identifying business challenges, designing data pipelines, validating data quality, and delivering actionable insights.  
-I believe in bridging the gap between raw data and strategic decision-making by combining technical proficiency (Python, SQL, data modeling) with business acumen (risk management, client profiling, regulatory compliance).
-
-I embrace a growth mindset, continuously expanding my capabilities across technical and business domains to drive better outcomes in complex financial environments.
+My approach blends analytical precision with strategic business understanding — enabling me to translate complex data issues into decisions that improve operational efficiency and business trust.  
+Driven by curiosity and continuous learning, I explore how data-driven design can redefine financial transparency and compliance intelligence.
 
 ---
 
-### 🔧 Technical Skills
-- SQL, Python (pandas, numpy), Excel (advanced analytics), Power BI
-- Linux, Git, GitHub
-- Business Analysis Tools: BRD, FRD, Use Case Diagrams, HP ALM, JIRA, Confluence
+### 🔍 Key Focus Areas
+- Trade Surveillance & Exception Handling  
+- Data Validation and Schema Integrity  
+- ETL Pipeline Design and Quality Controls  
+- Regulatory Compliance and Audit Readiness  
+- Analytics-Driven Decision Support  
 
 ---
 
-### 📫 Connect with me
-- LinkedIn: [Ahmet Guclu](https://www.linkedin.com/in/ahmet-guclu-7907992a5/)
-- GitHub: [gucluahmt](https://github.com/gucluahmt)
+### 💡 Approach and Mindset
+Each project in my portfolio reflects an independent effort to identify business challenges, design validation logic, and deliver measurable improvements in data quality and transparency.  
+I continuously expand my technical and business capabilities to ensure high-impact outcomes in complex financial environments.
 
+---
 
+### 🛠 Technical Skills
+- **Programming & Data Tools:** Python (pandas, numpy), SQL, Excel (advanced analytics), Power BI  
+- **Systems & Platforms:** Linux, Git, GitHub  
+- **Business Analysis Tools:** BRD, FRD, Use Case Diagrams, HP ALM, JIRA, Confluence  
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ahmet-guclu-7907992a5/)  
+- [GitHub](https://github.com/gucluahmt)
