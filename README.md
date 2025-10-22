@@ -26,12 +26,9 @@ I continuously expand my technical and business capabilities to ensure high-impa
 ---
 
 ### 🛠 Technical Skills
-- **Programming & Data Tools:** Python (pandas, numpy), SQL, Excel (advanced analytics), Power BI  
-- **Systems & Platforms:** Linux, Git, GitHub  
+- **Programming & Data Tools:** Python , SQL, Excel, Power BI  
+- **Systems & Platforms:** Linux, GitHub  
 - **Business Analysis Tools:** BRD, FRD, Use Case Diagrams, HP ALM, JIRA, Confluence  
 
 ---
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ahmet-guclu-7907992a5/)  
-- [GitHub](https://github.com/gucluahmt)
